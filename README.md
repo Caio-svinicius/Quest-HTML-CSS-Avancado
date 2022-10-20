@@ -5,11 +5,11 @@
 
 ### Layout Desktop
 
-[<img src="./Desktop.png">]
+[<img src="./src/images/Desktop.png">]
 
 ### Layout Mobile
 
-[<img src="./mobile.png">]
+[<img src="./src/images/mobile.png">]
 
 ## Tecnologias utilizadas.
 
