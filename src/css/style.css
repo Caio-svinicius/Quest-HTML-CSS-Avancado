@@ -40,7 +40,7 @@ body{
     display: flex;
     flex-direction: column;
     color: #fff;
-    margin-left: 7%;
+    margin: 0 5%;
     max-width: 100%;
 }
 
